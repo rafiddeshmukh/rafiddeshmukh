@@ -2,6 +2,7 @@
 Hello,I'm a data scientist with a passion for discovering insights from complex data sets. I have a strong technical background, and I'm proficient in programming languages such as Python and SQL. I possess excellent analytical and problem-solving skills, and I'm always on the lookout for potential biases in data. I'm constantly exploring new techniques and methods to improve my skills and stay up-to-date with the latest trends in the field.
 
 <img align="right" alt="data" width="400" length="300" src="https://aryng.com/assets/img/ani2.gif">
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/rafiddeshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiddeshmukh" height="30" width="40" /></a>
